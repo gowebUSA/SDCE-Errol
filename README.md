@@ -1,3 +1,8 @@
-# SDCE-Errol
+# SDCE-Errol Homework Tutoring
 
-## Week 4
+## Mobile App Development
+
+### Class 1
+- HTML
+- CSS
+- JavaScript
