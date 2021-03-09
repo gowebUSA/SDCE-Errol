@@ -1,0 +1,40 @@
+body {
+    background-color: sandybrown;
+}
+
+section#scInput {
+    background-color: darkred;
+    color: lightgoldenrodyellow;
+    padding: 30px;
+
+}
+
+section#scOutput {
+    background-color: darkslategrey;
+    color:darkturquoise;
+    padding: 30px;
+
+}
+
+form {
+    background-color: tomato;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+/*
+    Select a <form> with an id of "fmSaveAlbum" and then descenant of <label> and then styke it thus
+*/
+
+label  {
+    float: left;
+    width: 7em
+}
+
+div#divOutput {
+    font-size: 40px;
+}
+
+
+#fmSaveAlbum /* this was attached after the word form on line number 19. When this is attached, it won't create a form bacground, padding and border-line*/
+form#fmSaveAlbum /* this was attached before the word label on line number 29. When this is attached, it won't create an alignment on blank labels
