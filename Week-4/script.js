@@ -107,7 +107,7 @@ function fnShowAlbum(event) {
     //Show the result in the <div>
     //elDivOutput.innerHTML = "Hello";  //(03:21)
     elDivOutput.innerHTML = arrAlbums[0].artist;
-    //elDivOutput.innerHTML = "Artist: " + arrAlbums[randomAlbum].artist + "<br>Album: " + arrAlbums[randomAlbum].name + "<br>Year: " + arrAlbums[randomAlbum].year + "<br>Notes: " + arrAlbums[randomAlbum].notes;
+    elDivOutput.innerHTML = "Artist: " + arrAlbums[randomAlbum].artist + "<br>Album: " + arrAlbums[randomAlbum].name + "<br>Year: " + arrAlbums[randomAlbum].year + "<br>Notes: " + arrAlbums[randomAlbum].notes;
 }
 
 /*
